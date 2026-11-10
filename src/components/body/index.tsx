@@ -6,7 +6,7 @@ function Body() {
         <section className='body'>
             <div className='body__content'>
                 <h1>
-                    Guilherme Norcia {'>'}:{')'}
+                    O Guilherme Norcia {'>'}:{')'}
                 </h1>
                 <br />
                 <img src={Image} alt="Foto de Guilherme Norcia" />
